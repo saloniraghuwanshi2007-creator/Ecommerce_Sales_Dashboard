@@ -40,24 +40,6 @@ This project presents an interactive Ecommerce Sales Dashboard built using Power
 
 ---
 
-# 🗄️ Data Model
-
-The dashboard is built using a relational data model.
-
-<p align="center">
-<img src="data_model.png" width="900">
-</p>
-
----
-
-# 📊 Dashboard Preview
-
-<p align="center">
-<img src="dashboard.png" width="1000">
-</p>
-
----
-
 # 📈 Dashboard Features
 
 ## Executive KPIs
