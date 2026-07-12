@@ -86,13 +86,15 @@ This project presents an interactive Ecommerce Sales Dashboard built using Power
 # 📂 Repository Structure
 
 ```text
-Ecommerce-Sales-Dashboard
+📦 Ecommerce-Sales-Dashboard
 │
-├── README.md
-├── Ecommerce_Sales_Dashboard.pbix
-├── ecommerce_database.sql
-├── dashboard.png
-├── data_model.png
+├── 📄 README.md
+├── 📊 ECOMMERCE_PROJECT.pbix
+├── 🗄️ SQL_Analysis.sql
+├── 📷 dashboard_ecommerce.png
+├── 📷 data_model.png
+├── 📄 ecommerce_data.csv
+└── 📄 us_state_long_lat_codes.csv
 ```
 
 ---
